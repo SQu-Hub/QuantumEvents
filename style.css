@@ -1,0 +1,2196 @@
+.desktop {
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #f4f4f4;
+    overflow: hidden;
+    width: 1440px;
+    height: 6632px;
+    position: relative;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 3191px;
+    height: 2647px;
+    top: -68px;
+    left: -1480px;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 3191px;
+    height: 2647px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .element {
+    position: absolute;
+    width: 1440px;
+    height: 861px;
+    top: 54px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .text {
+    width: 467px;
+    top: 1556px;
+    left: 1949px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    color: #888888;
+    text-align: center;
+    line-height: 22px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .desktop .text-wrapper {
+    font-weight: 600;
+  }
+  
+  .desktop .span {
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+  }
+  
+  .desktop .group {
+    position: absolute;
+    width: 1983px;
+    height: 1192px;
+    top: 0;
+    left: 1208px;
+  }
+  
+  .desktop .overlap-group-2 {
+    position: relative;
+    height: 1192px;
+  }
+  
+  .desktop .ellipse {
+    width: 1028px;
+    height: 1028px;
+    top: 83px;
+    left: 46px;
+    border-radius: 514.03px;
+    border-color: #00000073;
+    transform: rotate(-5.37deg);
+    position: absolute;
+    border: 1px dashed;
+  }
+  
+  .desktop .ellipse-2 {
+    width: 1029px;
+    height: 1031px;
+    top: 80px;
+    left: 874px;
+    border-radius: 514.32px/515.34px;
+    border-color: #00000073;
+    transform: rotate(9.86deg);
+    position: absolute;
+    border: 1px dashed;
+  }
+  
+  .desktop .line-wrapper {
+    position: absolute;
+    width: 1px;
+    height: 119px;
+    top: 1068px;
+    left: 2182px;
+  }
+  
+  .desktop .line {
+    position: absolute;
+    width: 2px;
+    height: 119px;
+    top: 0;
+    left: -2px;
+  }
+  
+  .desktop .arrow {
+    position: absolute;
+    width: 3px;
+    height: 1px;
+    top: 54px;
+    left: 0;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    top: 699px;
+    left: 2179px;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .group-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 692px;
+    left: 2172px;
+  }
+  
+  .desktop .overlap-group-wrapper {
+    position: absolute;
+    width: 8px;
+    height: 7px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .desktop .overlap-group-3 {
+    position: relative;
+    height: 7px;
+  }
+  
+  .desktop .group-3 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 1px;
+    left: 1px;
+  }
+  
+  .desktop .rectangle-2 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 1px;
+    left: 1px;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .rectangle-3 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 0;
+    left: 0;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .rectangle-4 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 3px;
+    left: 3px;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .rectangle-5 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 2px;
+    left: 2px;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .rectangle-6 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 5px;
+    left: 5px;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .rectangle-7 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 4px;
+    left: 4px;
+    background-color: #a1a0a3;
+  }
+  
+  .desktop .group-4 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .desktop .rectangle-8 {
+    background-color: #f1f1f1;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 1px;
+    left: 1px;
+  }
+  
+  .desktop .rectangle-9 {
+    background-color: #f1f1f1;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .rectangle-10 {
+    background-color: #f1f1f1;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 3px;
+    left: 3px;
+  }
+  
+  .desktop .rectangle-11 {
+    background-color: #f1f1f1;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .desktop .rectangle-12 {
+    background-color: #f1f1f1;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 5px;
+    left: 5px;
+  }
+  
+  .desktop .rectangle-13 {
+    background-color: #f1f1f1;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .desktop .group-5 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .desktop .group-6 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 0;
+    left: 2px;
+  }
+  
+  .desktop .rectangle-14 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 1px;
+    left: 1px;
+  }
+  
+  .desktop .rectangle-15 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .rectangle-16 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 3px;
+    left: 3px;
+  }
+  
+  .desktop .rectangle-17 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .desktop .rectangle-18 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 5px;
+    left: 5px;
+  }
+  
+  .desktop .rectangle-19 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .desktop .overlap-wrapper {
+    position: absolute;
+    width: 8px;
+    height: 7px;
+    top: 10px;
+    left: 0;
+    transform: rotate(90deg);
+  }
+  
+  .desktop .div-wrapper {
+    position: absolute;
+    width: 8px;
+    height: 7px;
+    top: 1px;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .desktop .group-7 {
+    position: absolute;
+    width: 8px;
+    height: 7px;
+    top: 0;
+    left: 10px;
+    transform: rotate(-90deg);
+  }
+  
+  .desktop .group-8 {
+    position: absolute;
+    width: 324px;
+    height: 143px;
+    top: 654px;
+    left: 2346px;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 320px;
+    height: 47px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .project {
+    position: absolute;
+    width: 120px;
+    top: 0;
+    left: 104px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #444a57;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 320px;
+    top: 21px;
+    left: 0;
+    font-family: "IBM Plex Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #cdcdcd;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 12px;
+    height: 8px;
+    top: 8px;
+    left: 194px;
+  }
+  
+  .desktop .vector {
+    position: absolute;
+    width: 73px;
+    height: 73px;
+    top: 70px;
+    left: 128px;
+  }
+  
+  .desktop .group-9 {
+    position: absolute;
+    width: 324px;
+    height: 139px;
+    top: 654px;
+    left: 1693px;
+  }
+  
+  .desktop .project-2 {
+    position: absolute;
+    width: 120px;
+    top: 0;
+    left: 100px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #444a57;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .group-10 {
+    position: absolute;
+    width: 12px;
+    height: 8px;
+    top: 8px;
+    left: 188px;
+  }
+  
+  .desktop .group-11 {
+    position: absolute;
+    width: 66px;
+    height: 67px;
+    top: 73px;
+    left: 127px;
+  }
+  
+  .desktop .group-12 {
+    position: absolute;
+    width: 313px;
+    height: 64px;
+    top: 1540px;
+    left: 2023px;
+  }
+  
+  .desktop .overlap-3 {
+    position: relative;
+    width: 311px;
+    height: 64px;
+  }
+  
+  .desktop .vector-2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 38px;
+    left: 145px;
+  }
+  
+  .desktop .vector-3 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 38px;
+    left: 122px;
+  }
+  
+  .desktop .vector-4 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 38px;
+    left: 169px;
+  }
+  
+  .desktop .project-3 {
+    position: absolute;
+    width: 311px;
+    top: 0;
+    left: 0;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #444a57;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .group-13 {
+    position: absolute;
+    width: 513px;
+    height: 265px;
+    top: 1242px;
+    left: 1924px;
+  }
+  
+  .desktop .project-4 {
+    position: absolute;
+    width: 205px;
+    top: 0;
+    left: 155px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #444a57;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .this-comprehensive {
+    position: absolute;
+    width: 509px;
+    top: 91px;
+    left: 0;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .text-wrapper-2 {
+    color: #888888;
+  }
+  
+  .desktop .text-wrapper-3 {
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #888888;
+  }
+  
+  .desktop .group-14 {
+    position: absolute;
+    width: 1440px;
+    height: 708px;
+    top: 1939px;
+    left: 1480px;
+    background-image: url(./img/group-62633.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .arrow-2 {
+    position: absolute;
+    width: 12px;
+    height: 10px;
+    top: 446px;
+    left: 1453px;
+  }
+  
+  .desktop .group-15 {
+    position: absolute;
+    width: 12px;
+    height: 98px;
+    top: 358px;
+    left: 1453px;
+  }
+  
+  .desktop .shantanu-pic-square {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1095px;
+    left: 991px;
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1095px;
+    left: 1319px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-2 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1095px;
+    left: 1647px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-3 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1471px;
+    left: 1647px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-4 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1471px;
+    left: 1647px;
+  }
+  
+  .desktop .vector-5 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 1412px;
+    left: 1922px;
+  }
+  
+  .desktop .image-5 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1847px;
+    left: 1319px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-6 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1847px;
+    left: 1319px;
+  }
+  
+  .desktop .image-7 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1847px;
+    left: 1647px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-8 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1847px;
+    left: 1647px;
+  }
+  
+  .desktop .image-9 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 2341px;
+    left: 1647px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-10 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 2341px;
+    left: 1319px;
+    object-fit: cover;
+  }
+  
+  .desktop .group-16 {
+    position: absolute;
+    width: 489px;
+    height: 247px;
+    top: 1636px;
+    left: 1924px;
+  }
+  
+  .desktop .vector-6 {
+    position: absolute;
+    width: 142px;
+    height: 17px;
+    top: 230px;
+    left: 188px;
+  }
+  
+  .desktop .vector-7 {
+    position: absolute;
+    width: 140px;
+    height: 17px;
+    top: -1px;
+    left: 189px;
+  }
+  
+  .desktop .overlap-4 {
+    position: absolute;
+    width: 489px;
+    height: 139px;
+    top: 61px;
+    left: 0;
+  }
+  
+  .desktop .overlap-5 {
+    position: absolute;
+    width: 394px;
+    height: 139px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .overlap-6 {
+    position: absolute;
+    width: 298px;
+    height: 139px;
+    top: 0;
+    left: 56px;
+  }
+  
+  .desktop .image-11 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 39px;
+    left: 138px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-12 {
+    position: absolute;
+    width: 66px;
+    height: 57px;
+    top: 57px;
+    left: 232px;
+    object-fit: cover;
+  }
+  
+  .desktop .group-17 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .desktop .image-13 {
+    position: absolute;
+    width: 64px;
+    height: 56px;
+    top: 0;
+    left: 163px;
+    object-fit: cover;
+  }
+  
+  .desktop .bogazici-university {
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    top: 4px;
+    left: 114px;
+  }
+  
+  .desktop .image-14 {
+    position: absolute;
+    width: 84px;
+    height: 47px;
+    top: 5px;
+    left: 37px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-15 {
+    position: absolute;
+    width: 49px;
+    height: 48px;
+    top: 4px;
+    left: 229px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-7 {
+    position: absolute;
+    width: 195px;
+    height: 52px;
+    top: 61px;
+    left: 0;
+  }
+  
+  .desktop .image-16 {
+    position: absolute;
+    width: 40px;
+    height: 52px;
+    top: 0;
+    left: 154px;
+    object-fit: cover;
+  }
+  
+  .desktop .image-17 {
+    position: absolute;
+    width: 158px;
+    height: 39px;
+    top: 8px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .image-18 {
+    position: absolute;
+    width: 50px;
+    height: 46px;
+    top: 5px;
+    left: 344px;
+  }
+  
+  .desktop .group-18 {
+    position: absolute;
+    width: 135px;
+    height: 39px;
+    top: 65px;
+    left: 354px;
+  }
+  
+  .desktop .image-19 {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    top: 61px;
+    left: 399px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    width: 96px;
+    top: 556px;
+    left: 2103px;
+    font-family: "Banque Gothique RR Extra Bold Ext Cond-Regular", Helvetica;
+    font-weight: 400;
+    color: #df2409;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 7px;
+  }
+  
+  .desktop .group-19 {
+    position: absolute;
+    width: 214px;
+    height: 52px;
+    top: 553px;
+    left: 2077px;
+  }
+  
+  .desktop .overlap-8 {
+    position: relative;
+    width: 210px;
+    height: 52px;
+    background-image: url(./img/88aabf174350113-64a103e48e6c7-traced.png);
+    background-size: 100% 100%;
+  }
+  
+  .desktop .project-5 {
+    position: absolute;
+    width: 102px;
+    top: 20px;
+    left: 53px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #444a57;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    width: 77px;
+    top: 4px;
+    left: 122px;
+    font-family: "Banque Gothique RR Extra Bold Ext Cond-Regular", Helvetica;
+    font-weight: 400;
+    color: #008ec5;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 7px;
+  }
+  
+  .desktop .image-wrapper {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1471px;
+    left: 1319px;
+    background-image: url(./img/image-6.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .image-20 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .vector-8 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 1412px;
+    left: 1594px;
+  }
+  
+  .desktop .img-wrapper {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1471px;
+    left: 991px;
+    background-image: url(./img/image-6.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .overlap-9 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 1847px;
+    left: 991px;
+    background-image: url(./img/image-6.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .shantanu-pic-square-2 {
+    top: 2341px;
+    left: 991px;
+    position: absolute;
+    width: 288px;
+    height: 270px;
+  }
+  
+  .desktop .project-6 {
+    position: absolute;
+    width: 516px;
+    height: 210px;
+    top: -3153px;
+    left: -276px;
+  }
+  
+  .desktop .line-2 {
+    position: absolute;
+    width: 1px;
+    height: 11px;
+    top: -2828px;
+    left: -3px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-10 {
+    position: absolute;
+    width: 1440px;
+    height: 926px;
+    top: 2616px;
+    left: 0;
+  }
+  
+  .desktop .group-20 {
+    position: absolute;
+    width: 1440px;
+    height: 860px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .overlap-11 {
+    position: relative;
+    height: 860px;
+  }
+  
+  .desktop .layer {
+    position: absolute;
+    width: 1440px;
+    height: 708px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .group-21 {
+    position: absolute;
+    width: 582px;
+    height: 544px;
+    top: 316px;
+    left: 431px;
+  }
+  
+  .desktop .this-program-is {
+    position: absolute;
+    width: 578px;
+    top: 142px;
+    left: 0;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #f4f4f4;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .text-wrapper-6 {
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #f4f4f4;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .text-wrapper-7 {
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+  }
+  
+  .desktop .group-22 {
+    position: absolute;
+    width: 190px;
+    height: 40px;
+    top: 64px;
+    left: 194px;
+  }
+  
+  .desktop .button-wrapper {
+    position: relative;
+    width: 188px;
+    height: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  .desktop .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 98px;
+    height: 18px;
+    top: 11px;
+    left: 45px;
+    font-family: var(--body-short-01-font-family);
+    font-weight: var(--body-short-01-font-weight);
+    color: #393939;
+    font-size: var(--body-short-01-font-size);
+    text-align: center;
+    letter-spacing: var(--body-short-01-letter-spacing);
+    line-height: var(--body-short-01-line-height);
+    font-style: var(--body-short-01-font-style);
+  }
+  
+  .desktop .project-7 {
+    position: absolute;
+    width: 233px;
+    top: 0;
+    left: 173px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #f8f8f8;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .group-23 {
+    position: absolute;
+    width: 12px;
+    height: 87px;
+    top: 171px;
+    left: 716px;
+  }
+  
+  .desktop .group-24 {
+    position: absolute;
+    width: 719px;
+    height: 132px;
+    top: 794px;
+    left: 341px;
+  }
+  
+  .desktop .overlap-12 {
+    position: relative;
+    width: 715px;
+    height: 132px;
+  }
+  
+  .desktop .project-8 {
+    position: absolute;
+    width: 224px;
+    top: 0;
+    left: 245px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #444a57;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .the-lectures-and {
+    position: absolute;
+    width: 715px;
+    top: 0;
+    left: 0;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #888888;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .group-25 {
+    position: absolute;
+    width: 777px;
+    height: 383px;
+    top: 3751px;
+    left: 310px;
+  }
+  
+  .desktop .group-26 {
+    position: absolute;
+    width: 785px;
+    height: 111px;
+    top: 213px;
+    left: 0;
+  }
+  
+  .desktop .lectures-from {
+    position: absolute;
+    width: 144px;
+    top: 22px;
+    left: 0;
+    font-family: "IBM Plex Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .text-wrapper-8 {
+    color: #737373;
+  }
+  
+  .desktop .text-wrapper-9 {
+    color: #737373d9;
+    font-size: 16px;
+  }
+  
+  .desktop .labs-by-IBM {
+    position: absolute;
+    width: 191px;
+    top: 22px;
+    left: 186px;
+    font-family: "IBM Plex Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .four-weeks-to-design {
+    position: absolute;
+    width: 148px;
+    top: 5px;
+    left: 423px;
+    font-family: "IBM Plex Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .prize-distribution {
+    position: absolute;
+    width: 133px;
+    top: 0;
+    left: 644px;
+    font-family: "IBM Plex Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .vector-9 {
+    position: absolute;
+    width: 179px;
+    height: 22px;
+    top: -1px;
+    left: 300px;
+  }
+  
+  .desktop .vector-10 {
+    position: absolute;
+    width: 179px;
+    height: 22px;
+    top: 363px;
+    left: 300px;
+  }
+  
+  .desktop .group-27 {
+    position: absolute;
+    width: 747px;
+    height: 109px;
+    top: 75px;
+    left: 18px;
+  }
+  
+  .desktop .vector-11 {
+    position: absolute;
+    width: 110px;
+    height: 109px;
+    top: 0;
+    left: 637px;
+    object-fit: cover;
+  }
+  
+  .desktop .vector-12 {
+    position: absolute;
+    width: 107px;
+    height: 107px;
+    top: 1px;
+    left: 209px;
+    object-fit: cover;
+  }
+  
+  .desktop .vector-13 {
+    position: absolute;
+    width: 106px;
+    height: 107px;
+    top: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .google-deepmind-clx {
+    position: absolute;
+    width: 108px;
+    height: 101px;
+    top: 3px;
+    left: 424px;
+    object-fit: cover;
+  }
+  
+  .desktop .group-28 {
+    position: absolute;
+    width: 503px;
+    height: 12px;
+    top: 187px;
+    left: 138px;
+    object-fit: cover;
+  }
+  
+  .desktop .group-29 {
+    position: absolute;
+    width: 190px;
+    height: 40px;
+    top: 3542px;
+    left: 611px;
+  }
+  
+  .desktop .overlap-13 {
+    position: relative;
+    width: 188px;
+    height: 40px;
+    background-color: #be95ff;
+  }
+  
+  .desktop .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 124px;
+    height: 18px;
+    top: 11px;
+    left: 32px;
+    font-family: var(--body-short-01-font-family);
+    font-weight: var(--body-short-01-font-weight);
+    color: #f4f4f4;
+    font-size: var(--body-short-01-font-size);
+    text-align: center;
+    letter-spacing: var(--body-short-01-letter-spacing);
+    line-height: var(--body-short-01-line-height);
+    font-style: var(--body-short-01-font-style);
+  }
+  
+  .desktop .overlap-14 {
+    position: absolute;
+    width: 1441px;
+    height: 690px;
+    top: 5950px;
+    left: -1px;
+    background-color: #262626;
+  }
+  
+  .desktop .overlap-15 {
+    position: absolute;
+    width: 580px;
+    height: 322px;
+    top: 243px;
+    left: 791px;
+  }
+  
+  .desktop .ellipse-3 {
+    width: 321px;
+    height: 321px;
+    top: 1px;
+    left: 0;
+    border-radius: 160.5px;
+    border-color: #f4f4f473;
+    position: absolute;
+    border: 1px dashed;
+  }
+  
+  .desktop .ellipse-4 {
+    width: 321px;
+    height: 322px;
+    top: 0;
+    left: 259px;
+    border-radius: 160.5px/161px;
+    border-color: #f4f4f473;
+    position: absolute;
+    border: 1px dashed;
+  }
+  
+  .desktop .overlap-16 {
+    position: absolute;
+    width: 250px;
+    height: 219px;
+    top: 293px;
+    left: 90px;
+  }
+  
+  .desktop .home-speakers {
+    position: absolute;
+    width: 231px;
+    top: 0;
+    left: 19px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .desktop .text-wrapper-10 {
+    line-height: 48px;
+  }
+  
+  .desktop .div-2 {
+    position: absolute;
+    width: 47px;
+    top: 0;
+    left: 1px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .desktop .text-wrapper-11 {
+    line-height: 22px;
+  }
+  
+  .desktop .div-3 {
+    position: absolute;
+    width: 47px;
+    top: 48px;
+    left: 1px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .desktop .div-4 {
+    width: 47px;
+    top: 96px;
+    left: 0;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    color: #ffffff;
+    line-height: 16px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .desktop .div-5 {
+    width: 47px;
+    top: 144px;
+    left: 0;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    color: #ffffff;
+    line-height: 16px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .desktop .text-wrapper-12 {
+    position: absolute;
+    width: 231px;
+    top: 340px;
+    left: 497px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 48px;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-13 {
+    position: absolute;
+    width: 231px;
+    top: 384px;
+    left: 498px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 48px;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-14 {
+    position: absolute;
+    width: 231px;
+    top: 426px;
+    left: 498px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 48px;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .desktop .project-9 {
+    position: absolute;
+    width: 233px;
+    top: 307px;
+    left: 453px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #f8f8f8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .desktop .group-30 {
+    position: absolute;
+    width: 35px;
+    height: 34px;
+    top: 3069px;
+    left: -268px;
+  }
+  
+  .desktop .group-31 {
+    position: absolute;
+    width: 35px;
+    height: 34px;
+    top: 3027px;
+    left: -268px;
+  }
+  
+  .desktop .group-32 {
+    position: absolute;
+    width: 35px;
+    height: 34px;
+    top: 2982px;
+    left: -268px;
+  }
+  
+  .desktop .project-10 {
+    position: absolute;
+    width: 517px;
+    height: 154px;
+    top: 2721px;
+    left: -623px;
+  }
+  
+  .desktop .project-11 {
+    position: absolute;
+    width: 225px;
+    top: 4191px;
+    left: 583px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .text-wrapper-15 {
+    color: #444a57;
+  }
+  
+  .desktop .text-wrapper-16 {
+    color: #444a57bf;
+    font-size: 16px;
+  }
+  
+  .desktop .project-12 {
+    position: absolute;
+    width: 225px;
+    top: 5417px;
+    left: 587px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .desktop .overlap-17 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 4259px;
+    left: 213px;
+  }
+  
+  .desktop .rectangle-20 {
+    position: absolute;
+    width: 320px;
+    height: 368px;
+    top: 0;
+    left: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .desktop .group-33 {
+    position: absolute;
+    width: 19px;
+    height: 188px;
+    top: 22px;
+    left: 245px;
+  }
+  
+  .desktop .tag-operational {
+    display: flex;
+    width: 19px;
+    height: 14px;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0288d1;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  
+  .desktop .spacer {
+    position: relative;
+    width: 44px;
+    height: 32px;
+    margin-top: -9px;
+    margin-bottom: -9px;
+    opacity: 0;
+  }
+  
+  .desktop .skeleton-state {
+    position: absolute;
+    width: 19px;
+    height: 14px;
+    top: 0;
+    left: 0;
+    background-color: var(--transparenttransparent);
+    background-blend-mode: multiply;
+  }
+  
+  .desktop .skeleton {
+    height: 14px;
+    background-color: #0288d1;
+  }
+  
+  .desktop .gradient {
+    position: relative;
+    width: 19px;
+    height: 14px;
+    left: -19px;
+    background-color: #c6c6c6;
+    opacity: 0.5;
+  }
+  
+  .desktop .group-34 {
+    position: absolute;
+    width: 8px;
+    height: 9px;
+    top: 179px;
+    left: 5px;
+  }
+  
+  .desktop .progress-indicator {
+    display: flex;
+    width: 288px;
+    height: 26px;
+    align-items: flex-start;
+    position: absolute;
+    top: 68px;
+    left: 18px;
+  }
+  
+  .desktop .progress-indicator-2 {
+    flex-direction: column;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+    background-color: var(--transparenttransparent);
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-color: #be95ff;
+    background-blend-mode: multiply;
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .desktop .content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 16px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .optional-label {
+    display: flex;
+    align-items: flex-start;
+    padding: 0px 0px 0px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .desktop .optional-label-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #525252;
+    font-size: 12px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .desktop .min-width {
+    position: relative;
+    width: 128px;
+    height: 1px;
+    margin-bottom: -1px;
+  }
+  
+  .desktop .text-wrapper-17 {
+    position: absolute;
+    top: 41px;
+    left: 18px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #525252;
+    font-size: 12px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-18 {
+    position: absolute;
+    top: 13px;
+    left: 18px;
+    font-family: var(--non-variable-SM-fluid-heading-03-font-family);
+    font-weight: var(--non-variable-SM-fluid-heading-03-font-weight);
+    color: #161616;
+    font-size: var(--non-variable-SM-fluid-heading-03-font-size);
+    letter-spacing: var(--non-variable-SM-fluid-heading-03-letter-spacing);
+    line-height: var(--non-variable-SM-fluid-heading-03-line-height);
+    white-space: nowrap;
+    font-style: var(--non-variable-SM-fluid-heading-03-font-style);
+  }
+  
+  .desktop .group-35 {
+    position: absolute;
+    width: 19px;
+    height: 188px;
+    top: 22px;
+    left: 287px;
+  }
+  
+  .desktop .group-36 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .overlap-18 {
+    position: relative;
+    width: 320px;
+    height: 368px;
+    background-color: #f4f4f4;
+    border: 1px solid;
+    border-color: #0000000d;
+  }
+  
+  .desktop .overlap-group-4 {
+    position: absolute;
+    width: 288px;
+    height: 286px;
+    top: 68px;
+    left: 18px;
+  }
+  
+  .desktop .img-2 {
+    top: 16px;
+    left: 0;
+    position: absolute;
+    width: 288px;
+    height: 270px;
+  }
+  
+  .desktop .progress-indicator-3 {
+    width: 288px;
+    height: 26px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .desktop .text-wrapper-19 {
+    left: 17px;
+    position: absolute;
+    top: 41px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #525252;
+    font-size: 12px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-20 {
+    left: 17px;
+    position: absolute;
+    top: 13px;
+    font-family: var(--non-variable-SM-fluid-heading-03-font-family);
+    font-weight: var(--non-variable-SM-fluid-heading-03-font-weight);
+    color: #161616;
+    font-size: var(--non-variable-SM-fluid-heading-03-font-size);
+    letter-spacing: var(--non-variable-SM-fluid-heading-03-letter-spacing);
+    line-height: var(--non-variable-SM-fluid-heading-03-line-height);
+    white-space: nowrap;
+    font-style: var(--non-variable-SM-fluid-heading-03-font-style);
+  }
+  
+  .desktop .group-37 {
+    height: 8px;
+    top: 24px;
+    left: 292px;
+    position: absolute;
+    width: 8px;
+  }
+  
+  .desktop .overlap-19 {
+    position: absolute;
+    width: 320px;
+    height: 368px;
+    top: 4259px;
+    left: 541px;
+    background-color: #f4f4f4;
+  }
+  
+  .desktop .group-38 {
+    position: absolute;
+    width: 19px;
+    height: 188px;
+    top: 22px;
+    left: 264px;
+  }
+  
+  .desktop .rectangle-21 {
+    position: absolute;
+    width: 320px;
+    height: 368px;
+    top: 0;
+    left: 0;
+    background-color: #f4f4f4;
+    border: 1px solid;
+    border-color: #0000000d;
+  }
+  
+  .desktop .group-39 {
+    position: absolute;
+    width: 290px;
+    height: 340px;
+    top: 14px;
+    left: 18px;
+  }
+  
+  .desktop .overlap-20 {
+    position: relative;
+    width: 288px;
+    height: 340px;
+  }
+  
+  .desktop .overlap-21 {
+    position: absolute;
+    width: 288px;
+    height: 332px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .desktop .group-40 {
+    position: absolute;
+    width: 19px;
+    height: 188px;
+    top: 0;
+    left: 269px;
+  }
+  
+  .desktop .progress-indicator-4 {
+    width: 288px;
+    height: 26px;
+    position: absolute;
+    top: 46px;
+    left: 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .desktop .image-21 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 62px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .desktop .vector-14 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 3px;
+    left: 275px;
+  }
+  
+  .desktop .text-wrapper-21 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    font-family: var(--non-variable-SM-fluid-heading-03-font-family);
+    font-weight: var(--non-variable-SM-fluid-heading-03-font-weight);
+    color: #161616;
+    font-size: var(--non-variable-SM-fluid-heading-03-font-size);
+    letter-spacing: var(--non-variable-SM-fluid-heading-03-letter-spacing);
+    line-height: var(--non-variable-SM-fluid-heading-03-line-height);
+    white-space: nowrap;
+    font-style: var(--non-variable-SM-fluid-heading-03-font-style);
+  }
+  
+  .desktop .overlap-22 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 4259px;
+    left: 869px;
+  }
+  
+  .desktop .overlap-group-5 {
+    position: absolute;
+    width: 288px;
+    height: 332px;
+    top: 22px;
+    left: 18px;
+  }
+  
+  .desktop .overlap-23 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 4635px;
+    left: 869px;
+  }
+  
+  .desktop .group-41 {
+    position: absolute;
+    width: 19px;
+    height: 203px;
+    top: 22px;
+    left: 273px;
+  }
+  
+  .desktop .group-42 {
+    height: 9px;
+    top: 195px;
+    left: 5px;
+    position: absolute;
+    width: 8px;
+  }
+  
+  .desktop .group-43 {
+    position: absolute;
+    width: 19px;
+    height: 203px;
+    top: 22px;
+    left: 287px;
+  }
+  
+  .desktop .overlap-24 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 4635px;
+    left: 541px;
+  }
+  
+  .desktop .group-44 {
+    position: absolute;
+    width: 19px;
+    height: 203px;
+    top: 0;
+    left: 269px;
+  }
+  
+  .desktop .overlap-25 {
+    position: absolute;
+    width: 320px;
+    height: 368px;
+    top: 4635px;
+    left: 213px;
+    background-color: #f4f4f4;
+  }
+  
+  .desktop .group-45 {
+    position: absolute;
+    width: 292px;
+    height: 340px;
+    top: 14px;
+    left: 18px;
+  }
+  
+  .desktop .overlap-26 {
+    position: absolute;
+    width: 288px;
+    height: 286px;
+    top: 54px;
+    left: 0;
+  }
+  
+  .desktop .text-wrapper-22 {
+    top: 28px;
+    left: 0;
+    position: absolute;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #525252;
+    font-size: 12px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .desktop .vector-15 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 11px;
+    left: 275px;
+  }
+  
+  .desktop .overlap-27 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 5011px;
+    left: 213px;
+  }
+  
+  .desktop .group-46 {
+    height: 219px;
+    top: 22px;
+    left: 273px;
+    position: absolute;
+    width: 19px;
+  }
+  
+  .desktop .group-47 {
+    height: 9px;
+    top: 210px;
+    left: 5px;
+    position: absolute;
+    width: 8px;
+  }
+  
+  .desktop .group-48 {
+    height: 219px;
+    top: 0;
+    left: 269px;
+    position: absolute;
+    width: 19px;
+  }
+  
+  .desktop .image-22 {
+    position: absolute;
+    width: 287px;
+    height: 270px;
+    top: 62px;
+    left: 1px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-28 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 5011px;
+    left: 541px;
+  }
+  
+  .desktop .img-3 {
+    position: absolute;
+    width: 288px;
+    height: 270px;
+    top: 62px;
+    left: 0;
+  }
+  
+  .desktop .overlap-29 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 5011px;
+    left: 869px;
+  }
+  
+  .desktop .overlap-30 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 5505px;
+    left: 213px;
+  }
+  
+  .desktop .group-49 {
+    position: absolute;
+    width: 19px;
+    height: 235px;
+    top: 22px;
+    left: 245px;
+  }
+  
+  .desktop .group-50 {
+    height: 9px;
+    top: 226px;
+    left: 5px;
+    position: absolute;
+    width: 8px;
+  }
+  
+  .desktop .group-51 {
+    height: 235px;
+    top: 0;
+    left: 269px;
+    position: absolute;
+    width: 19px;
+  }
+  
+  .desktop .vector-16 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 2px;
+    left: 275px;
+  }
+  
+  .desktop .overlap-31 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 5505px;
+    left: 869px;
+  }
+  
+  .desktop .group-52 {
+    position: absolute;
+    width: 19px;
+    height: 235px;
+    top: 22px;
+    left: 264px;
+  }
+  
+  .desktop .overlap-32 {
+    position: absolute;
+    width: 324px;
+    height: 368px;
+    top: 5505px;
+    left: 541px;
+  }
+  
+  .desktop .polygon {
+    position: absolute;
+    width: 11px;
+    height: 10px;
+    top: -2203px;
+    left: -24px;
+  }
